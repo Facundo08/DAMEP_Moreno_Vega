@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DAMEP_FacundoMoreno_DiegoVega</string>
+    <string name="urbano">Urbano</string>
+    <string name="rural">Rural</string>
+    <string name="gato">Gato</string>
+    <string name="perro">Perro</string>
+    <string name="pollo">Pollo</string>
+    <string name="pato">Pato</string>
+    <string name="otro">Otros</string>
 </resources>
